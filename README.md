@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gerardo Burgos
 
-![Banner de GitHub](<img width="2752" height="1536" alt="banner_Llajua" src="https://github.com/user-attachments/assets/81a372e1-5bbc-4971-926a-418418f75f0c" />)
+<img width="2752" height="1536" alt="banner_Llajua" src="https://github.com/user-attachments/assets/81a372e1-5bbc-4971-926a-418418f75f0c" />
 
 ### Sobre mí
 * **Estudiante de último año** de sistemas informáticoss en **Bolivia**.
