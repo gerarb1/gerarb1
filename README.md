@@ -5,18 +5,16 @@
 ### Sobre mí
 * **Estudiante de último año** de sistemas informáticoss en **Bolivia**.
 * Tengo **25 años** y me apasiona construir software que resuelva problemas reales del entorno.
-* Mi enfoque actual es el desarrollo web y móvil, siempre con una mentalidad de **aprendizaje continuo**.
+* Mi enfoque actual es el desarrollo web, siempre con una mentalidad de **aprendizaje continuo**.
 
----
 
 ### Mi Stack Tecnológico (En aprendizaje activo)
 * **Lenguajes:** JavaScript, TypeScript y dando mis primeros pasos en Go.
 * **Frontend:** React, Astro (para mi landing page) y Tailwind CSS.
 * **Backend:** Node.js y gestión de bases de datos con SQL.
-* **Móvil:** Flutter (para mi proyecto de grado) y Jetpack Compose.
-* **Herramientas:** Aprendiendo a orquestar con Docker y migrando mi flujo de trabajo a Pop!_OS.
+* **Herramientas:** Aprendiendo a orquestar con Docker
 
----
+
 
 
 
